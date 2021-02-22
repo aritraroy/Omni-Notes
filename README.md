@@ -18,24 +18,24 @@ The project was created by the absence of such applications compatible with old 
 
 Actually the following functions are implemented:
 
-* Material Design interface
-*Basic add, modify, archive, trash and delete notes actions
-* Share, merge and search notes
-* Image, audio and generic file attachments
-* Manage your notes using tags and categories
-* To-do list
-* Sketch-note mode
-* Notes shortcut on home screen
-* Export/import notes to backup
-* Google Now integration: just tell "write a note" followed by the content
-* Multiple widgets, DashClock extension, Android 4.2 lockscreen compatibility
-* Multilanguage: 30 languages supported: https://crowdin.com/project/omni-notes
+* Material Design interface .
+*Basic add, modify, archive, trash and delete notes actions .
+* Share, merge and search notes .
+* Image, audio and generic file attachments .
+* Manage your notes using tags and categories .
+* To-do list .
+* Sketch-note mode.
+* Notes shortcut on home screen.
+* Export/import notes to backup.
+* Google Now integration: just tell "write a note" followed by the content.
+* Multiple widgets, DashClock extension, Android 4.2 lockscreen compatibility.
+* Multilanguage: 30 languages supported: https://crowdin.com/project/omni-notes.
 
 
 Further developments will include:
 
 * Notes sychronization
-* Web interface to manage notes
+* Web interface to manage notes.
 
 You can find a complete changelog inside the application settings menu!
 
